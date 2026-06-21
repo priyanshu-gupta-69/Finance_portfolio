@@ -421,9 +421,9 @@ Potential future improvements:
 
 📅 Date: June 20, 2026
 
-🔗 LinkedIn: *Add your LinkedIn URL here*
+🔗 LinkedIn: www.linkedin.com/in/priyanshudcac
 
-💻 GitHub: *Add your GitHub profile URL here*
+💻 GitHub: https://github.com/priyanshu-gupta-69
 
 ---
 
